@@ -18,15 +18,18 @@ TypeScript is a powerful, statically typed superset of JavaScript that helps dev
 To get started with this project, you need to have Node.js and npm (or Yarn) installed on your machine. Follow these steps to clone the repository and install the necessary dependencies:
 
 1. Clone the repository:
+
     ```bash
     git clone https://github.com/your-username/45-typescript-assignments.git
     cd 45-typescript-assignments
     ```
-2. Install TypeScript
+2. Install TypeScript:
+
     ```bash
     npm install -g typescript
     ```
 3. Execute the code for a specific assignment:
+
     ```bash
     node X/main.js
     ```
@@ -84,6 +87,8 @@ Each assignment focuses on a different aspect of TypeScript. Here is a brief ove
 
 This project is licensed under the MIT License - see the LICENSE file for details. -->
 
+
 Thank you for visiting the 45 TypeScript Assignments repository. I hope you find the code and documentation helpful and inspiring. Happy coding!
+
 
 This README provides a comprehensive overview of the project and instructions for getting started.
