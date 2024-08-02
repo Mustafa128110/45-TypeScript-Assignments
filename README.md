@@ -38,14 +38,14 @@ To get started with this project, you need to have Node.js and npm (or Yarn) ins
 
 Each assignment focuses on a different aspect of TypeScript. Here is a brief overview of the assignments:
 
-2. Personal Message.
-3. Name Cases.
-4. Famous Quote.
-5. Famous Quote #2.
-6. Stripping Names.
-7. Number Eight.
-8. Number Eight #2.
-9. Favorite Number.
+02. Personal Message.
+03. Name Cases.
+04. Famous Quote.
+05. Famous Quote #2.
+06. Stripping Names.
+07. Number Eight.
+08. Number Eight #2.
+09. Favorite Number.
 10. Adding Comments.
 11. Names.
 12. Greetings.
@@ -86,6 +86,7 @@ Each assignment focuses on a different aspect of TypeScript. Here is a brief ove
 <!-- ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. -->
+
 ##
 
 Thank you for visiting the 45 TypeScript Assignments repository. I hope you find the code and documentation helpful and inspiring. Happy coding!
