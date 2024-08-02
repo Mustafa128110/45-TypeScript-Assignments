@@ -7,8 +7,7 @@ Welcome to the **45 TypeScript Assignments** repository! This collection of assi
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Assignments](#assignments)
-Contributing
-License
+<!-- - [License](#license) -->
 
 ## Introduction
 
@@ -87,4 +86,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Thank you for visiting the 45 TypeScript Assignments repository. I hope you find the code and documentation helpful and inspiring. Happy coding!
 
-This README provides a comprehensive overview of the project and instructions for getting started. 
+This README provides a comprehensive overview of the project and instructions for getting started.
