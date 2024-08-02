@@ -89,7 +89,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ##
 
-Thank you for visiting the 45 TypeScript Assignments repository. I hope you find the code and documentation helpful and inspiring. Happy coding!
+Thank you for visiting the **45 TypeScript Assignments** repository. I hope you find the code and documentation helpful and inspiring. Happy coding!
 
 ##
 
