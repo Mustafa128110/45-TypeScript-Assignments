@@ -86,9 +86,10 @@ Each assignment focuses on a different aspect of TypeScript. Here is a brief ove
 <!-- ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. -->
-
+##
 
 Thank you for visiting the 45 TypeScript Assignments repository. I hope you find the code and documentation helpful and inspiring. Happy coding!
 
+##
 
 This README provides a comprehensive overview of the project and instructions for getting started.
